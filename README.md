@@ -1,4 +1,4 @@
-# sqlalchemy_challenge
+# SQLalchemy Challenge
 
 For this project, I used Python and SQLAlchemy to do a basic climate analysis and data exploration of the climate database found in the Resources folder. Specifically, I used SQLAlchemy ORM queries, Pandas, and Matplotlib to analyze and visualize the data exploration. 
 
